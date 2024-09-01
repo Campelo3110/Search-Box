@@ -7,6 +7,8 @@
 
 Este projeto implementa uma elegante e interativa caixa de pesquisa usando HTML e CSS. Com um design minimalista e responsivo, a caixa de pesquisa expande-se ao clicar, oferecendo uma experiência intuitiva e moderna para o usuário. Ideal para quem deseja adicionar um componente de busca estiloso e funcional ao seu site.
 
+![Cartão com Efeito de Virar](https://imgur.com/4uUThe6.gif)
+
 ## 🎨 Recursos
 
 - **HTML5 e CSS3**: Estrutura moderna e estilização usando boas práticas.
